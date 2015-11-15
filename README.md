@@ -10,4 +10,4 @@ cd dummy_ca
 Yep, that easy!
 
 ## Credits
-Most of the configs used can be found at [Jamie's Blog](https://jamielinux.com/docs/openssl-certificate-authority/).
+Reading [Jamie's Blog](https://jamielinux.com/docs/openssl-certificate-authority/) is a must!
