@@ -1,5 +1,5 @@
 # Dummy Certification Authority
-A quick and dirty way for creating a Root CA and one Intermediate CA for testing.
+A quick and dirty way for creating a Root Certification Authority (CA) and one Intermediate CA for testing.
 
 ## Build
 ```
@@ -11,3 +11,5 @@ Yep, that easy!
 
 ## Credits
 Reading [Jamie's Blog](https://jamielinux.com/docs/openssl-certificate-authority/) is a must!
+
+Made with ♥️ by [kintoandar](https://blog.kintoandar.com)
